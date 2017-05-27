@@ -1,4 +1,4 @@
-/*cnpm i mocha supertest config-lite connect-flash connect-mongo ejs express express-formidable express-session marked moment mongolass objectid-to-timestamp sha1 winston express-winston --save-dev*/
+/*cnpm i mocha supertest istanbul config-lite connect-flash connect-mongo ejs express express-formidable express-session marked moment mongolass objectid-to-timestamp sha1 winston express-winston --save-dev*/
 
 var path = require('path');
 var express = require('express');
